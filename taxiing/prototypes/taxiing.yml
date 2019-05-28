@@ -1,6 +1,6 @@
 description: >
     New TAXII Miner
-url: https://github.com/PaloAltoNetworks/minemeld-taxii-ng
+url: https://github.com/biswajitde/minemeld-taxii-ng
 
 prototypes:
     phishtank:
